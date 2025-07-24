@@ -27,9 +27,13 @@ RaspHome_gray:
       sidebar-selected-icon-color: "rgb(202, 228, 240)"
       primary-color: "rgba(255, 255, 255, 0.90)"
 
+
       
 #Global
-  accent-color: "#ff4343"
+      accent-color: "#ff4343"
+      switch-checked-color: "rgb(96, 255, 133, 9)"
+      switch-unchecked-button-color: "#47474"
+      switch-unchecked-track-color: "#69252"
 
 
 RaspHome_gray_blur:
