@@ -16,8 +16,7 @@
 
 ## 🚀 Installation
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Install%20with%20HACS-blue.svg?style=for-the-badge)](https://github.com/levin-hnzl/rasphome-themes.git)
-
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=levin-hnzl&repository=rasphome-themes&category=theme)
 
 ### 1. Theme-Datei herunterladen
 
