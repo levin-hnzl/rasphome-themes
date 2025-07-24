@@ -27,7 +27,8 @@ RaspHome_gray:
       icon-mode-color: "rgb(255, 255, 255)"
       sidebar-selected-icon-color: "rgb(202, 228, 240)" 
       primary-color: "rgb(0, 136, 169)" 
-      card-background-color: "#3b3b3b1f"
+      card-background-color: "#3b3b3b1f" 
+      mdc-theme-on-surface: "#303030fa"
 
 
 
