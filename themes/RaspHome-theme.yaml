@@ -58,9 +58,9 @@ RaspHome_gray_blur:
 
      
     dark:
-      primary-background-color: "rgb(25, 24, 22)"
+      primary-background-color: "rgb(15, 15, 15)"
       secondary-background-color: "rgb(25, 24, 22)"
-      app-header-background-color: "rgba(25, 24, 22, 0.3)"
+      app-header-background-color: "rgb(22, 22, 22, 98)"
       ha-card-background: "rgba(255, 255, 255, 0)"
       app-theme-color: "rgb(0, 0, 0)"
       ha-card-border-color: "rgba(212, 212, 212, 0.47)"
@@ -70,7 +70,9 @@ RaspHome_gray_blur:
       divider-color: "rgba(184, 184, 184, 0.28)"
       icon-mode-color: "rgb(255, 255, 255)"
       sidebar-selected-icon-color: "rgb(202, 228, 240)" 
-      primary-color: "rgb(115 115 115)"
+      primary-color: "rgb(0, 136, 169)" 
+      card-background-color: "#3b3b3b1f"
+
 
 
       
@@ -81,4 +83,6 @@ RaspHome_gray_blur:
   switch-unchecked-button-color: "#807e7e"
   switch-unchecked-track-color: "#551212"
   mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
-  ha-card-backdrop-filter: blur(10px)
+  bubble-default-backdrop-background-color: "rgba(255, 0, 0, 0)"
+
+  ha-card-backdrop-filter: blur(5px)
