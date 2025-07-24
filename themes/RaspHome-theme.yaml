@@ -31,9 +31,10 @@ RaspHome_gray:
       
 #Global
       accent-color: "#ff4343"
+      switch-checked-button-color: "rgb(255, 255, 255)"
       switch-checked-color: "rgb(96, 255, 133, 9)"
-      switch-unchecked-button-color: "#47474"
-      switch-unchecked-track-color: "#69252"
+#      switch-unchecked-button-color: "#47474"
+#      switch-unchecked-track-color: "#69252"
 
 
 RaspHome_gray_blur:
