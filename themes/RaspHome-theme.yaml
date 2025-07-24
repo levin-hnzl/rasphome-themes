@@ -30,7 +30,6 @@ RaspHome_gray:
       
 #Global
   accent-color: "#ff4343"
-  ha-card-backdrop-filter: blur(20px)
 
 
 RaspHome_gray_blur:
@@ -65,4 +64,4 @@ RaspHome_gray_blur:
       
 #Global
   accent-color: "#ff4343"
-  ha-card-backdrop-filter: blur(20px)
+  ha-card-backdrop-filter: blur(15px)
