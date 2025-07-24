@@ -108,7 +108,7 @@ RaspHome_oragne:
     dark:
       primary-background-color: "rgb(15, 15, 15)"
       secondary-background-color: "rgb(25, 24, 22)"
-      app-header-background-color: "rgb(26 26 26)"
+      app-header-background-color: "rgb(26, 26, 26)"
       ha-card-background: "rgba(255, 255, 255, 0)"
       app-theme-color: "rgb(0, 0, 0)"
       ha-card-border-color: "rgba(212, 212, 212, 0.47)"
@@ -120,6 +120,7 @@ RaspHome_oragne:
       sidebar-selected-icon-color: "rgb(255 104 15)" 
       primary-color: "rgb(217, 86, 0)" 
       card-background-color: "#3b3b3b1f"
+      ha-dialog-surface-background: "#371707"
 
 
 
