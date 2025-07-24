@@ -1,21 +1,68 @@
 RaspHome_gray:
   modes:
-#    light:
-#     primary-background-color: rgb(84, 80, 76)
-#     secondary-background-color: rgb(84, 80, 76)
-#     app-header-background-color: rgba(84, 80, 76, 0.3)
-#     ha-card-background: rgba(128, 128, 128, 0.3)
-#      app-theme-color: rgb(122, 114, 106)
+    light:
+     primary-background-color: "rgb(250, 250, 250)"
+     secondary-background-color: "rgb(245, 245, 245)"
+     app-header-background-color: "rgba(12, 12, 12, 0.4)"
+     ha-card-background: "rgba(255, 255, 255, 0)"
+     app-theme-color: "rgb(122, 114, 106)"
+     icon-mode-color: "rgb(89, 89, 89)"
+     sidebar-selected-icon-color: "rgb(36, 36, 36)"
+     mdc-theme-primary: "rgb(45, 49, 54)"
+     mdc-theme-secondary: "rgb(79 79 79)"
+     primary-color: "rgb(107, 107, 107)"
+
+     
     dark:
-      primary-background-color: rgb(25, 24, 22)
-      secondary-background-color: rgb(25, 24, 22)
-      app-header-background-color: rgba(25, 24, 22, 0.3)
-      ha-card-background: rgba(38, 38, 38, 0.68)
-      app-theme-color: rgb(0, 0, 0)
-      ha-card-border-color: rgba(212, 212, 212, 0.47)
+      primary-background-color: "rgb(25, 24, 22)"
+      secondary-background-color: "rgb(25, 24, 22)"
+      app-header-background-color: "rgba(25, 24, 22, 0.3)"
+      ha-card-background: "rgba(255, 255, 255, 0)"
+      app-theme-color: "rgb(0, 0, 0)"
+      ha-card-border-color: "rgba(212, 212, 212, 0.47)"
       md-list-item-label-text-color: "rgb(209, 207, 207)"
-      mdc-theme-primary: "rgb(204, 203, 203)"
+      mdc-theme-primary: "rgb(227, 227, 227)"
+      divider-color: "rgba(184, 184, 184, 0.28)"
+      icon-mode-color: "rgb(255, 255, 255)"
+      sidebar-selected-icon-color: "rgb(202, 228, 240)"
+      primary-color: "rgba(255, 255, 255, 0.90)"
+
       
 #Global
   accent-color: "#ff4343"
-  sidebar-selected-icon-color: "rgb(202, 228, 240)"
+  ha-card-backdrop-filter: blur(20px)
+
+
+RaspHome_gray_blur:
+  modes:
+    light:
+     primary-background-color: "rgb(250, 250, 250)"
+     secondary-background-color: "rgb(245, 245, 245)"
+     app-header-background-color: "rgba(12, 12, 12, 0.4)"
+     ha-card-background: "rgba(255, 255, 255, 0)"
+     app-theme-color: "rgb(122, 114, 106)"
+     icon-mode-color: "rgb(89, 89, 89)"
+     sidebar-selected-icon-color: "rgb(36, 36, 36)"
+     mdc-theme-primary: "rgb(45, 49, 54)"
+     mdc-theme-secondary: "rgb(79 79 79)"
+     primary-color: "rgb(107, 107, 107)"
+
+     
+    dark:
+      primary-background-color: "rgb(25, 24, 22)"
+      secondary-background-color: "rgb(25, 24, 22)"
+      app-header-background-color: "rgba(25, 24, 22, 0.3)"
+      ha-card-background: "rgba(255, 255, 255, 0)"
+      app-theme-color: "rgb(0, 0, 0)"
+      ha-card-border-color: "rgba(212, 212, 212, 0.47)"
+      md-list-item-label-text-color: "rgb(209, 207, 207)"
+      mdc-theme-primary: "rgb(227, 227, 227)"
+      divider-color: "rgba(184, 184, 184, 0.28)"
+      icon-mode-color: "rgb(255, 255, 255)"
+      sidebar-selected-icon-color: "rgb(202, 228, 240)"
+      primary-color: "rgba(255, 255, 255, 0.90)"
+
+      
+#Global
+  accent-color: "#ff4343"
+  ha-card-backdrop-filter: blur(20px)
