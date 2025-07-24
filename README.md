@@ -1,7 +1,6 @@
 # 🏠 RaspHome – A Modern Home Assistant Theme
 
-**RaspHome** ist ein stilvolles, modernes und dunkles Home Assistant Theme mit warmen Farbtönen, ideal für ein elegantes Dashboard-Erlebnis – besonders auf Raspberry Pi Setups optimiert.
-
+**RaspHome Theme** is a stylish and modern home assistant theme, ideal for an elegant dashboard experience.
 ---
 
 ## 🚀 Installation
