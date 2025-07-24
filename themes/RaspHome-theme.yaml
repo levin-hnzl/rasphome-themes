@@ -25,7 +25,8 @@ RaspHome_gray:
       divider-color: "rgba(184, 184, 184, 0.28)"
       icon-mode-color: "rgb(255, 255, 255)"
       sidebar-selected-icon-color: "rgb(202, 228, 240)"
-      primary-color: "rgba(255, 255, 255, 0.90)"
+#      primary-color: "rgba(255, 255, 255, 0.90)" 
+      primary-color: "rgba(101, 186, 255, 90)"
 
 
       
@@ -33,8 +34,10 @@ RaspHome_gray:
       accent-color: "#ff4343"
       switch-checked-button-color: "rgb(255, 255, 255)"
       switch-checked-color: "rgb(96, 255, 133, 9)"
-#      switch-unchecked-button-color: "#47474"
-#      switch-unchecked-track-color: "#69252"
+      switch-unchecked-button-color: "#807e7e"
+      switch-unchecked-track-color: "#551212"
+      mdc-checkbox-checked-color:: "rgb(42, 149, 0, 90)"
+      mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
 
 
 RaspHome_gray_blur:
