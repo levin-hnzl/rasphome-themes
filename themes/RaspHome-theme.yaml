@@ -22,12 +22,12 @@ RaspHome_gray:
       ha-card-border-color: "rgba(212, 212, 212, 0.47)"
       md-list-item-label-text-color: "rgb(209, 207, 207)"
 #      mdc-theme-primary: "rgb(94, 94, 94)"
-      mdc-theme-primary: "rgb(219 112 59)"
+      mdc-theme-primary: "var(--primary-color)"
       divider-color: "rgba(184, 184, 184, 0.28)"
       icon-mode-color: "rgb(255, 255, 255)"
       sidebar-selected-icon-color: "rgb(202, 228, 240)"
 #      primary-color: "rgba(255, 255, 255, 0.90)" 
-      primary-color: "rgba(101, 186, 255, 90)"
+      primary-color: "rgb(84 84 84)"
 
 
       
@@ -37,7 +37,6 @@ RaspHome_gray:
       switch-checked-color: "rgb(96, 255, 133, 9)"
       switch-unchecked-button-color: "#807e7e"
       switch-unchecked-track-color: "#551212"
-      mdc-checkbox-checked-color:: "rgb(42, 149, 0, 90)"
       mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
 
 
