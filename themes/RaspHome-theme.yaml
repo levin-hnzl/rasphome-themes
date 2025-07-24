@@ -16,7 +16,7 @@ RaspHome_gray:
     dark:
       primary-background-color: "rgb(15, 15, 15)"
       secondary-background-color: "rgb(25, 24, 22)"
-      app-header-background-color: "rgb(22, 22, 22, 98)"
+      app-header-background-color: "rgb(41, 41, 41, 98)"
       ha-card-background: "rgba(255, 255, 255, 0)"
       app-theme-color: "rgb(0, 0, 0)"
       ha-card-border-color: "rgba(212, 212, 212, 0.47)"
@@ -60,7 +60,7 @@ RaspHome_gray_blur:
     dark:
       primary-background-color: "rgb(15, 15, 15)"
       secondary-background-color: "rgb(25, 24, 22)"
-      app-header-background-color: "rgb(22, 22, 22, 98)"
+      app-header-background-color: "rgb(41, 41, 41, 98)"
       ha-card-background: "rgba(255, 255, 255, 0)"
       app-theme-color: "rgb(0, 0, 0)"
       ha-card-border-color: "rgba(212, 212, 212, 0.47)"
@@ -84,5 +84,51 @@ RaspHome_gray_blur:
   switch-unchecked-track-color: "#551212"
   mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
   bubble-default-backdrop-background-color: "rgba(255, 0, 0, 0)"
-
   ha-card-backdrop-filter: blur(5px)
+
+
+RaspHome_oragne:
+  modes:
+    light:
+     primary-background-color: "rgb(255, 241, 234)"
+     secondary-background-color: "rgb(245, 245, 245)"
+     app-header-background-color: "rgb(231, 83, 0, 90)"
+     ha-card-background: "rgba(255, 255, 255, 0)"
+     app-theme-color: "rgb(122, 114, 106)"
+     icon-mode-color: "rgb(89, 89, 89)"
+     sidebar-selected-icon-color: "rgb(253, 94, 0, 90)"
+     sidebar-background-color: "rgb(252, 244, 240)"
+     mdc-theme-primary: "rgb(255 85 0)"
+     mdc-theme-secondary: "rgb(79 79 79)"
+     primary-color: "rgb(255 92 18)" 
+     card-background-color: "#ffffff70"
+     input-fill-color: "rgb(255 224 202)"
+
+     
+    dark:
+      primary-background-color: "rgb(15, 15, 15)"
+      secondary-background-color: "rgb(25, 24, 22)"
+      app-header-background-color: "rgb(101, 48, 12))"
+      ha-card-background: "rgba(255, 255, 255, 0)"
+      app-theme-color: "rgb(0, 0, 0)"
+      ha-card-border-color: "rgba(212, 212, 212, 0.47)"
+      md-list-item-label-text-color: "rgb(209, 207, 207)"
+#      mdc-theme-primary: "rgb(94, 94, 94)"
+      mdc-theme-primary: "var(--primary-color)"
+      divider-color: "rgba(184, 184, 184, 0.28)"
+      icon-mode-color: "rgb(255, 255, 255)"
+      sidebar-selected-icon-color: "rgb(255 104 15)" 
+      primary-color: "rgb(217, 86, 0)" 
+      card-background-color: "#3b3b3b1f"
+
+
+
+      
+#Global
+  accent-color: "#ff4343"
+  switch-checked-button-color: "rgb(255, 255, 255)"
+  switch-checked-color: "rgb(0 193 45)" 
+  switch-unchecked-button-color: "#807e7e"
+  switch-unchecked-track-color: "#551212"
+  mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
+  bubble-default-backdrop-background-color: "rgba(255, 0, 0, 0)"
