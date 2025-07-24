@@ -21,7 +21,7 @@ RaspHome_gray:
       app-theme-color: "rgb(0, 0, 0)"
       ha-card-border-color: "rgba(212, 212, 212, 0.47)"
       md-list-item-label-text-color: "rgb(209, 207, 207)"
-      mdc-theme-primary: "rgb(227, 227, 227)"
+      mdc-theme-primary: "rgb(159 159 159)"
       divider-color: "rgba(184, 184, 184, 0.28)"
       icon-mode-color: "rgb(255, 255, 255)"
       sidebar-selected-icon-color: "rgb(202, 228, 240)"
