@@ -16,7 +16,7 @@ Go to Hacs
 Click on: Custom Repositories
 
 **3**
-Copy and paste the link `[rasphome.yaml](https://github.com/levin-hnzl/rasphome-themes.git)`
+Copy and paste the link `https://github.com/levin-hnzl/rasphome-themes.git`
 
 **4**
 Select theme
