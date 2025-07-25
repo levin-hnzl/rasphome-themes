@@ -27,6 +27,6 @@ Click Add
 # Have fun 🥳
 
 
-# information
+# Tip
 
 If you have set icons or elements on your dashboard to static white, you can use `var(--icon-mode-color)` to color them gray in light mode and white in dark mode.
