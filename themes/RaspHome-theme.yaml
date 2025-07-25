@@ -1,16 +1,23 @@
 RaspHome_gray:
   modes:
     light:
-     primary-background-color: "rgb(250, 250, 250)"
+     primary-background-color: "#f7f7f7"
      secondary-background-color: "rgb(245, 245, 245)"
-     app-header-background-color: "rgba(12, 12, 12, 0.4)"
+     app-header-background-color: "#e5e3e3"
+     app-header-text-color: "#363636"
      ha-card-background: "rgba(255, 255, 255, 0)"
+     ha-dialog-surface-background: "#f7f7f7"
      app-theme-color: "rgb(122, 114, 106)"
      icon-mode-color: "rgb(89, 89, 89)"
      sidebar-selected-icon-color: "rgb(36, 36, 36)"
+     sidebar-background-color: "#f7f7f7"
      mdc-theme-primary: "rgb(45, 49, 54)"
      mdc-theme-secondary: "rgb(79 79 79)"
      primary-color: "rgb(107, 107, 107)"
+     mdc-theme-on-surface: "#ababab"
+     mdc-theme-surface: "#dbdbdb"
+     mdc-theme-text-icon-on-background: "#3f3e3e"
+     
 
      
     dark:
@@ -25,11 +32,11 @@ RaspHome_gray:
       divider-color: "rgba(184, 184, 184, 0.28)"
       icon-mode-color: "rgb(255, 255, 255)"
       sidebar-selected-icon-color: "rgb(202, 228, 240)" 
-      primary-color: "rgb(0, 136, 169)" 
+      sidebar-background-color: "#161616fa"
+      primary-color: "rgb(158, 158, 158)"  
       card-background-color: "#3b3b3b1f" 
       mdc-theme-on-surface: "#1e1e1efa"
       mdc-theme-surface: "#1e1e1efa"
-      sidebar-background-color: "#161616fa"
       md-menu-item-container-color: "#1e1e1efa"
   
 #Global
@@ -46,44 +53,52 @@ RaspHome_gray:
 RaspHome_gray_blur:
   modes:
     light:
-     primary-background-color: "rgb(250, 250, 250)"
+     primary-background-color: "#f7f7f7"
      secondary-background-color: "rgb(245, 245, 245)"
-     app-header-background-color: "rgba(12, 12, 12, 0.4)"
+     app-header-background-color: "#e5e3e3"
+     app-header-text-color: "#363636"
      ha-card-background: "rgba(255, 255, 255, 0)"
+     ha-dialog-surface-background: "#f7f7f7"
      app-theme-color: "rgb(122, 114, 106)"
      icon-mode-color: "rgb(89, 89, 89)"
      sidebar-selected-icon-color: "rgb(36, 36, 36)"
+     sidebar-background-color: "#f7f7f7"
      mdc-theme-primary: "rgb(45, 49, 54)"
      mdc-theme-secondary: "rgb(79 79 79)"
      primary-color: "rgb(107, 107, 107)"
+     mdc-theme-on-surface: "#ababab"
+     mdc-theme-surface: "#dbdbdb"
+     mdc-theme-text-icon-on-background: "#3f3e3e"
+     
 
      
     dark:
       primary-background-color: "rgb(15, 15, 15)"
       secondary-background-color: "rgb(25, 24, 22)"
-      app-header-background-color: "rgb(41, 41, 41, 98)"
+      app-header-background-color: "rgb(26 26 26)"
       ha-card-background: "rgba(255, 255, 255, 0)"
       app-theme-color: "rgb(0, 0, 0)"
       ha-card-border-color: "rgba(212, 212, 212, 0.47)"
       md-list-item-label-text-color: "rgb(209, 207, 207)"
-#      mdc-theme-primary: "rgb(94, 94, 94)"
       mdc-theme-primary: "var(--primary-color)"
       divider-color: "rgba(184, 184, 184, 0.28)"
       icon-mode-color: "rgb(255, 255, 255)"
       sidebar-selected-icon-color: "rgb(202, 228, 240)" 
-      primary-color: "rgb(0, 136, 169)" 
-      card-background-color: "#3b3b3b1f"
-
-
-
-      
+      sidebar-background-color: "#161616fa"
+      primary-color: "rgb(158, 158, 158)"  
+      card-background-color: "#3b3b3b1f" 
+      mdc-theme-on-surface: "#1e1e1efa"
+      mdc-theme-surface: "#1e1e1efa"
+      md-menu-item-container-color: "#1e1e1efa"
+  
 #Global
-  accent-color: "#ff4343"
+  accent-color: "rgb(255, 166, 0)"
   switch-checked-button-color: "rgb(255, 255, 255)"
   switch-checked-color: "rgb(0 193 45)" 
   switch-unchecked-button-color: "#807e7e"
   switch-unchecked-track-color: "#551212"
   mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
+  bubble-backdrop-background-color: "rgba(255, 0, 0, 0)"
   bubble-default-backdrop-background-color: "rgba(255, 0, 0, 0)"
   ha-card-backdrop-filter: blur(5px)
 
@@ -93,12 +108,14 @@ RaspHome_oragne:
     light:
      primary-background-color: "rgb(255, 241, 234)"
      secondary-background-color: "rgb(245, 245, 245)"
-     app-header-background-color: "rgb(231, 83, 0, 90)"
+     app-header-background-color: "rgb(247 123 53)"
      ha-card-background: "rgba(255, 255, 255, 0)"
      app-theme-color: "rgb(122, 114, 106)"
      icon-mode-color: "rgb(89, 89, 89)"
      sidebar-selected-icon-color: "rgb(253, 94, 0, 90)"
      sidebar-background-color: "rgb(252, 244, 240)"
+     md-menu-container-color: "#ffd9bcf0"
+     mdc-theme-surface: "#ffc39bdb"
      mdc-theme-primary: "rgb(255 85 0)"
      mdc-theme-secondary: "rgb(79 79 79)"
      primary-color: "rgb(255 92 18)" 
@@ -107,15 +124,16 @@ RaspHome_oragne:
 
      
     dark:
-      primary-background-color: "rgb(15, 15, 15)"
+      primary-background-color: "#120901"
       secondary-background-color: "rgb(25, 24, 22)"
-      app-header-background-color: "rgb(26, 26, 26)"
+      app-header-background-color: "#120d07fc"
       ha-card-background: "rgba(255, 255, 255, 0)"
       app-theme-color: "rgb(0, 0, 0)"
       ha-card-border-color: "rgba(212, 212, 212, 0.47)"
       md-list-item-label-text-color: "rgb(209, 207, 207)"
-#      mdc-theme-primary: "rgb(94, 94, 94)"
+      md-menu-container-color: "#2d160be8"
       mdc-theme-primary: "var(--primary-color)"
+      mdc-theme-surface: "#120b05fc"
       divider-color: "rgba(184, 184, 184, 0.28)"
       icon-mode-color: "rgb(255, 255, 255)"
       sidebar-selected-icon-color: "rgb(255 104 15)" 
@@ -123,11 +141,8 @@ RaspHome_oragne:
       card-background-color: "#3b3b3b1f"
       ha-dialog-surface-background: "#371707"
 
-
-
-      
 #Global
-  accent-color: "#ff4343"
+  accent-color: "rgb(255, 166, 0)"
   switch-checked-button-color: "rgb(255, 255, 255)"
   switch-checked-color: "rgb(0 193 45)" 
   switch-unchecked-button-color: "#807e7e"
