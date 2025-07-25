@@ -39,7 +39,7 @@ RaspHome_gray:
       mdc-theme-surface: "#1e1e1efa"
       md-menu-item-container-color: "#141414"
       md-menu-container-color: "#4949497a"
-      material-background-color: "#636363fa"
+      material-background-color: "#3b3b3bfa"
   
 #Global
   accent-color: "#bd0000"     # "rgb(255, 166, 0)"
