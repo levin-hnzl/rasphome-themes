@@ -28,11 +28,12 @@ RaspHome_gray:
       primary-color: "rgb(0, 136, 169)" 
       card-background-color: "#3b3b3b1f" 
       mdc-theme-on-surface: "#1e1e1efa"
-      mdc-theme-surface: "##1e1e1efa"
+      mdc-theme-surface: "#1e1e1efa"
       sidebar-background-color: "#161616fa"
+      md-menu-item-container-color: "#1e1e1efa"
   
 #Global
-  accent-color: "#ff4343"
+  accent-color: "rgb(255, 166, 0)"
   switch-checked-button-color: "rgb(255, 255, 255)"
   switch-checked-color: "rgb(0 193 45)" 
   switch-unchecked-button-color: "#807e7e"
