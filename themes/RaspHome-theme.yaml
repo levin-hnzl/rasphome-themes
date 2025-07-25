@@ -40,7 +40,7 @@ RaspHome_gray:
       md-menu-item-container-color: "#141414"
       md-menu-container-color: "#4949497a"
       material-background-color: "#3b3b3bfa"
-      md-dialog-container-color: "#1a1a1af5"
+      md-dialog-container-color: "#141414"
   
 #Global
   accent-color: "#bd0000"     # "rgb(255, 166, 0)"
@@ -79,7 +79,6 @@ RaspHome_gray_blur:
      mdc-theme-text-icon-on-background: "#3f3e3e"
      
 
-     #141414
     dark:
       primary-background-color: "rgb(15, 15, 15)"
       secondary-background-color: "rgb(25, 24, 22)"
@@ -100,7 +99,7 @@ RaspHome_gray_blur:
       md-menu-item-container-color: "#141414"
       md-menu-container-color: "#4949497a"
       material-background-color: "#636363fa"
-      md-dialog-container-color: "#1a1a1af5"
+      md-dialog-container-color: "#141414"
   
 #Global
   accent-color: "#bd0000"     # "rgb(255, 166, 0)"
