@@ -30,6 +30,7 @@ RaspHome_gray:
       card-background-color: "#3b3b3b1f" 
       mdc-theme-on-surface: "#303030fa"
       sidebar-background-color: "#2525251f"
+      ha-dialog-surface-background: "#1e1e1e"
  
 #Global
   accent-color: "#ff4343"
