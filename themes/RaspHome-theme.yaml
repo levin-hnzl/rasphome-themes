@@ -19,7 +19,7 @@ RaspHome_gray:
      mdc-theme-text-icon-on-background: "#3f3e3e"
      
 
-     
+     #141414
     dark:
       primary-background-color: "rgb(15, 15, 15)"
       secondary-background-color: "rgb(25, 24, 22)"
@@ -37,10 +37,11 @@ RaspHome_gray:
       card-background-color: "#3b3b3b1f" 
       mdc-theme-on-surface: "#1e1e1efa"
       mdc-theme-surface: "#1e1e1efa"
-      md-menu-item-container-color: "#1e1e1efa"
+      md-menu-item-container-color: "#141414"
+      md-menu-container-color: "#4949497a"
   
 #Global
-  accent-color: "rgb(255, 166, 0)"
+  accent-color: "#bd0000"     # "rgb(255, 166, 0)"
   switch-checked-button-color: "rgb(255, 255, 255)"
   switch-checked-color: "rgb(0 193 45)" 
   switch-unchecked-button-color: "#807e7e"
@@ -48,6 +49,11 @@ RaspHome_gray:
   mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
   bubble-backdrop-background-color: "rgba(255, 0, 0, 0)"
   bubble-default-backdrop-background-color: "rgba(255, 0, 0, 0)"
+  md-menu-container-shape: 20px
+  mdc-shape-medium: 15px
+  mdc-shape-small: 10px
+  ha-card-border-radius: 20px
+
 
 
 RaspHome_gray_blur:
@@ -71,7 +77,7 @@ RaspHome_gray_blur:
      mdc-theme-text-icon-on-background: "#3f3e3e"
      
 
-     
+     #141414
     dark:
       primary-background-color: "rgb(15, 15, 15)"
       secondary-background-color: "rgb(25, 24, 22)"
@@ -89,10 +95,11 @@ RaspHome_gray_blur:
       card-background-color: "#3b3b3b1f" 
       mdc-theme-on-surface: "#1e1e1efa"
       mdc-theme-surface: "#1e1e1efa"
-      md-menu-item-container-color: "#1e1e1efa"
+      md-menu-item-container-color: "#141414"
+      md-menu-container-color: "#4949497a"
   
 #Global
-  accent-color: "rgb(255, 166, 0)"
+  accent-color: "#bd0000"     # "rgb(255, 166, 0)"
   switch-checked-button-color: "rgb(255, 255, 255)"
   switch-checked-color: "rgb(0 193 45)" 
   switch-unchecked-button-color: "#807e7e"
@@ -100,6 +107,10 @@ RaspHome_gray_blur:
   mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
   bubble-backdrop-background-color: "rgba(255, 0, 0, 0)"
   bubble-default-backdrop-background-color: "rgba(255, 0, 0, 0)"
+  md-menu-container-shape: 20px
+  mdc-shape-medium: 15px
+  mdc-shape-small: 10px
+  ha-card-border-radius: 20px
   ha-card-backdrop-filter: blur(5px)
 
 
@@ -142,10 +153,15 @@ RaspHome_oragne:
       ha-dialog-surface-background: "#371707"
 
 #Global
-  accent-color: "rgb(255, 166, 0)"
+  accent-color: "#bd0000"     # "rgb(255, 166, 0)"
   switch-checked-button-color: "rgb(255, 255, 255)"
   switch-checked-color: "rgb(0 193 45)" 
   switch-unchecked-button-color: "#807e7e"
   switch-unchecked-track-color: "#551212"
   mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
+  bubble-backdrop-background-color: "rgba(255, 0, 0, 0)"
   bubble-default-backdrop-background-color: "rgba(255, 0, 0, 0)"
+  md-menu-container-shape: 20px
+  mdc-shape-medium: 15px
+  mdc-shape-small: 10px
+  ha-card-border-radius: 20px
