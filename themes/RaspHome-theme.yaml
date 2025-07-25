@@ -29,6 +29,7 @@ RaspHome_gray:
       primary-color: "rgb(0, 136, 169)" 
       card-background-color: "#3b3b3b1f" 
       mdc-theme-on-surface: "#303030fa"
+      sidebar-background-color: "#2525251f"
  
 #Global
   accent-color: "#ff4343"
