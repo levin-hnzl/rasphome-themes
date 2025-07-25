@@ -14,7 +14,7 @@ RaspHome_gray:
 
      
     dark:
-      primary-background-color: "rgb(15, 15, 15)"
+      primary-background-color: "rgb(25, 24, 22)"
       secondary-background-color: "rgb(25, 24, 22)"
       app-header-background-color: "rgb(41, 41, 41, 98)"
       ha-card-background: "rgba(255, 255, 255, 0)"
@@ -26,7 +26,7 @@ RaspHome_gray:
       divider-color: "rgba(184, 184, 184, 0.28)"
       icon-mode-color: "rgb(255, 255, 255)"
       sidebar-selected-icon-color: "rgb(202, 228, 240)" 
-      primary-color: "rgb(0, 136, 169)" 
+      primary-color: "rgb(115 115 115)" 
       card-background-color: "#3b3b3b1f" 
       mdc-theme-on-surface: "#303030fa"
  
