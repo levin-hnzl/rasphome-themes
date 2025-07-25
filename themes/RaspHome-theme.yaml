@@ -16,22 +16,21 @@ RaspHome_gray:
     dark:
       primary-background-color: "rgb(15, 15, 15)"
       secondary-background-color: "rgb(25, 24, 22)"
-      app-header-background-color: "rgb(41, 41, 41, 98)"
+      app-header-background-color: "rgb(26 26 26)"
       ha-card-background: "rgba(255, 255, 255, 0)"
       app-theme-color: "rgb(0, 0, 0)"
       ha-card-border-color: "rgba(212, 212, 212, 0.47)"
       md-list-item-label-text-color: "rgb(209, 207, 207)"
-#      mdc-theme-primary: "rgb(94, 94, 94)"
       mdc-theme-primary: "var(--primary-color)"
       divider-color: "rgba(184, 184, 184, 0.28)"
       icon-mode-color: "rgb(255, 255, 255)"
       sidebar-selected-icon-color: "rgb(202, 228, 240)" 
       primary-color: "rgb(0, 136, 169)" 
       card-background-color: "#3b3b3b1f" 
-      mdc-theme-on-surface: "#303030fa"
-      sidebar-background-color: "#2525251f"
-      ha-dialog-surface-background: "#1e1e1e"
- 
+      mdc-theme-on-surface: "#1e1e1efa"
+      mdc-theme-surface: "##1e1e1efa"
+      sidebar-background-color: "#161616fa"
+  
 #Global
   accent-color: "#ff4343"
   switch-checked-button-color: "rgb(255, 255, 255)"
@@ -40,7 +39,6 @@ RaspHome_gray:
   switch-unchecked-track-color: "#551212"
   mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
   bubble-default-backdrop-background-color: "rgba(255, 0, 0, 0)"
-  accent-color: "rgb(255, 147, 0)"
 
 
 RaspHome_gray_blur:
