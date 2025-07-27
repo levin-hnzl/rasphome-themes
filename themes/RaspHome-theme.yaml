@@ -17,6 +17,7 @@ RaspHome_gray:
      mdc-theme-on-surface: "#ababab"
      mdc-theme-surface: "#dbdbdb"
      mdc-theme-text-icon-on-background: "#3f3e3e"
+     app-header-edit-background-color: "#bbbbbb"
      
 
     dark:
@@ -40,6 +41,7 @@ RaspHome_gray:
       md-menu-container-color: "#4949497a"
       material-background-color: "#3b3b3bfa"
       md-dialog-container-color: "#3b3b3b"
+      app-header-edit-background-color: "#5f5f5f"
   
 #Global
   accent-color: "#bd0000"     # "rgb(255, 166, 0)"
