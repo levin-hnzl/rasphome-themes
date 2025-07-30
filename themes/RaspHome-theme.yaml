@@ -58,68 +58,6 @@ RaspHome_gray:
   ha-card-border-radius: 20px
 
 
-
-RaspHome_gray_blur:
-  modes:
-    light:
-     primary-background-color: "#f7f7f7"
-     secondary-background-color: "rgb(245, 245, 245)"
-     app-header-background-color: "#e5e3e3"
-     app-header-text-color: "#363636"
-     ha-card-background: "rgba(255, 255, 255, 0)"
-     ha-dialog-surface-background: "#f7f7f7"
-     app-theme-color: "rgb(122, 114, 106)"
-     icon-mode-color: "rgb(89, 89, 89)"
-     sidebar-selected-icon-color: "rgb(36, 36, 36)"
-     sidebar-background-color: "#f7f7f7"
-     mdc-theme-primary: "rgb(45, 49, 54)"
-     mdc-theme-secondary: "rgb(79 79 79)"
-     primary-color: "rgb(107, 107, 107)"
-     mdc-theme-on-surface: "#ababab"
-     mdc-theme-surface: "#dbdbdb"
-     mdc-theme-text-icon-on-background: "#3f3e3e"
-     app-header-edit-background-color: "#bbbbbb"
-     
-
-    dark:
-      primary-background-color: "rgb(15, 15, 15)"
-      secondary-background-color: "rgb(25, 24, 22)"
-      app-header-background-color: "rgb(26 26 26)"
-      ha-card-background: "rgba(255, 255, 255, 0)"
-      app-theme-color: "rgb(0, 0, 0)"
-      ha-card-border-color: "rgba(212, 212, 212, 0.47)"
-      md-list-item-label-text-color: "rgb(209, 207, 207)"
-      mdc-theme-primary: "var(--primary-color)"
-      divider-color: "rgba(184, 184, 184, 0.28)"
-      icon-mode-color: "rgb(255, 255, 255)"
-      sidebar-selected-icon-color: "rgb(202, 228, 240)" 
-      sidebar-background-color: "#161616fa"
-      primary-color: "rgb(158, 158, 158)"  
-      card-background-color: "#1c1c1cf5" 
-      mdc-theme-on-surface: "#1e1e1efa"
-      mdc-theme-surface: "#1e1e1efa"
-      md-menu-item-container-color: "#141414"
-      md-menu-container-color: "#4949497a"
-      material-background-color: "#3b3b3bfa"
-      md-dialog-container-color: "#3b3b3b"
-      app-header-edit-background-color: "#787878"
-  
-#Global
-  accent-color: "#bd0000"     # "rgb(255, 166, 0)"
-  switch-checked-button-color: "rgb(255, 255, 255)"
-  switch-checked-color: "rgb(0 193 45)" 
-  switch-unchecked-button-color: "#807e7e"
-  switch-unchecked-track-color: "#551212"
-  mdc-checkbox-checked-color: "rgb(42, 149, 0, 90)"
-  bubble-backdrop-background-color: "rgba(255, 0, 0, 0)"
-  bubble-default-backdrop-background-color: "rgba(255, 0, 0, 0)"
-  md-menu-container-shape: 20px
-  mdc-shape-medium: 15px
-  mdc-shape-small: 10px
-  ha-card-border-radius: 20px
-  ha-card-backdrop-filter: blur(5px)
-
-
 RaspHome_oragne:
   modes:
     light:
