@@ -38,7 +38,7 @@ RaspHome_gray:
       mdc-theme-on-surface: "#1e1e1efa"
       mdc-theme-surface: "#1e1e1efa"
       md-menu-item-container-color: "#141414"
-      md-menu-container-color: "#4949497a"
+      md-menu-container-color: "#2d2d2ded"
       material-background-color: "#3b3b3bfa"
       md-dialog-container-color: "#3b3b3b"
       app-header-edit-background-color: "#787878"
