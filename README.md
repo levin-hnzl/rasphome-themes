@@ -1,4 +1,5 @@
 # 🏠 RaspHome – A Modern Home Assistant Theme
+![GitHub All Releases](https://img.shields.io/github/downloads/levin-hnzl/rasphome-themes/total.svg?color=green&style=for-the-badge)
 
 **RaspHome Theme** is a stylish and modern home assistant theme, ideal for an elegant dashboard experience.
 ---
